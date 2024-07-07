@@ -3,7 +3,7 @@ As part of the physics course in the computer science program,
 I and my colleague conducted physics experiments, which we analyzed to confirm established laws of physics.
 
 ## 📑 Topics of reports:
-1) [Wyznaczanie współczynnika załamania światła metodą pryzmatu](https://github.com/karlikp/Fizyka/tree/main/Source/01.Wyznaczanie_wspolczynnika_zalamania_swiatla_metoda_pryzmatu)
+1) [Wyznaczanie współczynnika załamania światła metodą pryzmatu](https://github.com/karlikp/Fizyka/blob/main/Source/01.Wyznaczanie_wspolczynnika_zalamania_swiatla_metoda_pryzmatu.pdf)
 2) [Wyznaczanie maksymalnej energii promieniowania beta metodą absorpcyjną](Source/02.Wyznaczanie_maksymalnej_energii_promieniowania_beta_metoda_absorpcyjna)
 3) [Wyznaczanie charakterystyk fotokomórki gazowej](Source/03.Wyznaczanie_charakterystyk_fotokomorki_gazowej)
 4) [Badanie drgań relaksacyjnych w układzie RC](Source/04.Badanie_drgan_relaksacyjnych_w_ukladzie_RC)
