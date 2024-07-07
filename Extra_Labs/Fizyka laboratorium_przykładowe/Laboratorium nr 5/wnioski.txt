@@ -1,5 +1,0 @@
-Æwiczenie zosta³o wykonane zgodnie z instrukcj¹. Z porównania wyników otrzymanych w doœwiadczeniu z rozk³adami teoretycznymi
-doszliœmy do wniosku i¿ statystyczny rozpad promieniotwórczy nie przebiega zgodnie z za³o¿eniami rozk³adu 
-teoretycznego, gdy¿ rozpad promieniotwórczy przebiega w sposób samorzutny i nie mo¿na w ¿aden sposób przewidzieæ 
-ani dok³adnie okreœliæ jego przebiegu przed wykonaniem pomiaru. Mo¿emy jedynie statystycznie uœredniæ wyniki pomiarów jednak nie mo¿na dok³adnie 
-okreœliæ rozpadu z rozk³adami teoretycznymi. Z tego powodu dane pomiarowe ró¿ni¹ siê od rozk³adu teoretycznego.
